@@ -1,1 +1,1 @@
-nohup python web.py &
+nohup python app.py &
